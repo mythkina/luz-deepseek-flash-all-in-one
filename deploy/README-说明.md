@@ -117,7 +117,7 @@ md5sum ./sglang/srt/entrypoints/openai/serving_chat.py ./sglang/srt/layers/atten
 ```
 
 网盘发布包（镜像 tar+仓快照+网关配方+网络层材料，约 14G）：夸克网盘
-`https://pan.quark.cn/s/95fcb0efd1c4`（提取码 `QkfP`），下载后先按包内
+`https://pan.quark.cn/s/95fcb0efd1c4`（提取码 `QkfP`）；备用=百度网盘 `https://pan.baidu.com/s/1UbfBMQfspWdzahFUgtNtmQ?pwd=luzi`，下载后先按包内
 `CHECKSUMS.manifest` 逐件校验，再按包内 `README-DIST.md` 走。**取件口径
 （包内仓快照是哪个时点、镜像 tar 烘焙了多少 0.3.4 面、哪些件必须回仓取）见下
 §七。**
